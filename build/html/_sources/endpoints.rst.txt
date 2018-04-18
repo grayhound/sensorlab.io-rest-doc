@@ -54,11 +54,11 @@ Get single sensor
 .. include:: endpoints/sensors/one.rst
 
 Get measurements for sensor
-~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
 .. include:: endpoints/sensors/measurements/list.rst
 
 Get last measurement for sensor
-~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 .. include:: endpoints/sensors/measurements/last.rst
 
 Measurements endpoints
