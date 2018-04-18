@@ -11,10 +11,3 @@ Sensorlab.io REST API
     :caption: Contents:
 
     endpoints.rst
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
